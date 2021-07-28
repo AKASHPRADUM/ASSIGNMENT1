@@ -1,0 +1,5 @@
+a = int(input("enter yor 1st no."))
+b = int(input("enter yor 2st no."))
+if a == b : print("both are equal")
+if a > b : print("a is greater")
+if a < b : print("b is greater") 
